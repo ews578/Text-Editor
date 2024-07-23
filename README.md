@@ -18,6 +18,8 @@
   npm run start 
   
   ## Usage
+  a screenshot of the application
+   ![alt text](<assets/JATE.png>)
   
   here is a link to my git hub 
 
